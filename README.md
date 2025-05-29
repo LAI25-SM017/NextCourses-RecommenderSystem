@@ -1,7 +1,7 @@
 # NextCourses Recommender System (NC)
 
 
-![NextCourses Recommender System Banner](assets\repo_hero_banner.png)  <!-- Optional banner image -->
+![NextCourses Recommender System Banner](assets/repo_hero_banner.png)  <!-- Optional banner image -->
 
 
 ## Deskripsi  
